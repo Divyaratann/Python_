@@ -1,4 +1,4 @@
-# 🐍 Python Basics – Learning Repository
+# 🐍 Python– Learning Repository
 
 Welcome to my **Python Basics** repository! This repository contains Python programs and practice examples created while learning Python programming.
 
